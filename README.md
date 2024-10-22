@@ -1,4 +1,4 @@
-# Voice Recognition Form Filler
+# Speech to Text Recognition
 
 This project implements a web-based form filler using the Web Speech API, allowing users to input data by speaking. It recognizes specific keywords and fills the corresponding fields in a form dynamically, making it accessible and user-friendly.
 
@@ -20,4 +20,4 @@ This project implements a web-based form filler using the Web Speech API, allowi
 1. Clone the repository or download the source code.
 
    ```bash
-   git clone https://github.com/yourusername/voice-recognition-form-filler.git
+   git clone https://github.com/anubrat25/speech-to-text.git
